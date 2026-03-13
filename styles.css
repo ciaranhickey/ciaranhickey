@@ -1,7 +1,7 @@
 @font-face {
-	font-family: 'SuisseIntl-Regular-WebM';
-	src: 	url('fonts/SuisseIntl-Regular-WebM.woff2') format('woff2'),
-				url('fonts/SuisseIntl-Regular-WebM.woff') format('woff');
+	font-family: 'SuisseIntl-Regular-WebS';
+	src: 	url('fonts/SuisseIntl-Regular-WebS.woff2') format('woff2'),
+				url('fonts/SuisseIntl-Regular-WebS.woff') format('woff');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -21,7 +21,7 @@
 		line-height: 1.3em;
 		padding: 0;
 		margin: 0;		
-		font-family:  "suisseintl", "SuisseIntl-Regular-WebM", "Inter", sans-serif;
+		font-family:  "SuisseIntl-Regular-WebS", "Inter", sans-serif;
 	
 		letter-spacing: 0;
 		font-stretch: normal;
